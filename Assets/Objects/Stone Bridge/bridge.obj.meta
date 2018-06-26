@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: 944f973f09b6a4f7e87e459a0d6b488f
-timeCreated: 1523976250
-licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -19,6 +17,7 @@ ModelImporter:
     3300002: Tube01
     4300000: Plane01
     4300002: Tube01
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,6 +37,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
